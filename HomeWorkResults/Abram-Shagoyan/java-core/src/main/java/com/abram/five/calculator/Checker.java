@@ -1,4 +1,4 @@
-package com.abram.calculator;
+package com.abram.five.calculator;
 
 public class Checker {
     public static boolean isDouble(String number) {
