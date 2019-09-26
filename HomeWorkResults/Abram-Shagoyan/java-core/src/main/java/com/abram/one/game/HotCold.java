@@ -1,4 +1,4 @@
-package com.abram.game;
+package com.abram.one.game;
 
 import java.util.Scanner;
 
