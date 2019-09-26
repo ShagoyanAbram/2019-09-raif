@@ -1,4 +1,4 @@
-package com.abram.model;
+package com.abram.two.model;
 
 public class Market {
     private int id;

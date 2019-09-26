@@ -1,4 +1,4 @@
-package com.abram.model;
+package com.abram.two.model;
 
 public class OperationsGuide {
     private int id;
