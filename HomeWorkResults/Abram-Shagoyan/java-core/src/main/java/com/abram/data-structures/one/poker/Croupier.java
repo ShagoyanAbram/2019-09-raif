@@ -1,4 +1,4 @@
-package com.abram.poker;
+package com.abram.data-structures.one.poker;
 
 import java.util.Random;
 

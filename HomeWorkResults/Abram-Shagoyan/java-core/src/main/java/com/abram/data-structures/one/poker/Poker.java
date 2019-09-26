@@ -1,4 +1,4 @@
-package com.abram.poker;
+package com.abram.data-structures.one.poker;
 
 public class Poker {
     private static final int SIZE = 54;
