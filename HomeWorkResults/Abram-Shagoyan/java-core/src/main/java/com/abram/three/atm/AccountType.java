@@ -1,4 +1,4 @@
-package com.abram.atm;
+package com.abram.three.atm;
 
 public enum AccountType {
     CREDIT("Credit"),

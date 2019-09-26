@@ -1,4 +1,4 @@
-package com.abram.atm.service.impl;
+package com.abram.three.atm.service.impl;
 
 import com.abram.atm.Accounts;
 import com.abram.atm.User;
