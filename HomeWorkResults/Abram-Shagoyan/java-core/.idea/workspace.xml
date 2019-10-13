@@ -1,8 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="082cf2e1-7345-42c5-bf3e-3373d725316f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abram/collection/SelfIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abram/collection/SelfIterator.java" afterDir="false" />
+    <list default="true" id="082cf2e1-7345-42c5-bf3e-3373d725316f" name="Default Changelist" comment="II.Data structures&#10;homework array, poker">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/raiffeisenIT.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/abram/atm/AccountType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/abram/atm/Accounts.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/abram/atm/CreditAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/abram/atm/CurrentAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/abram/atm/DebitAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/abram/atm/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/abram/atm/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/abram/atm/service/Service.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/abram/atm/service/impl/CreditService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/abram/atm/service/impl/CurrentService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/abram/atm/service/impl/DebitService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/abram/calculator/Checker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/abram/calculator/IncorrectOperationException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/abram/calculator/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/abram/calculator/ZeroException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/abram/calculator/Сalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/abram/collection/SelfIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/abram/collection/SelfIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/abram/game/HotCold.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/abram/game/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/abram/leak/MemoryLeak.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/abram/model/Currency.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/abram/model/Dollar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/abram/model/Issuer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/abram/model/Market.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/abram/model/OperationLog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/abram/model/OperationsGuide.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/abram/model/Share.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/abram/moon/CardValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/abram/poker/Croupier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/abram/poker/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/abram/poker/Poker.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,10 +61,11 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
+        <entry key="$PROJECT_DIR$/../../.." value="master" />
         <entry key="$PROJECT_DIR$" value="DataStructuresHomeWorkArray" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -44,10 +78,11 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1QyNkNfMESVoPcx9yCFMLwJJGhF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../2019-09-raif/HomeWorkResults/Abram-Shagoyan/java-core/one" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -64,6 +99,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.abram.special_tools.generics" />
       <recent name="com.abram.homework.six.leak" />
       <recent name="com.abram.homework.four.moon" />
     </key>
@@ -87,7 +123,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SelfIterator">
+  <component name="RunManager" selected="Application.Aggregator">
+    <configuration name="Aggregator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.abram.special_tools.generics.Aggregator" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.abram.special_tools.generics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.abram.poker.Main" />
       <module name="raiffeisenIT" />
@@ -107,19 +156,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.abram.game.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.abram.calculator.Main" />
-      <module name="raiffeisenIT" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.abram.calculator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Aggregator" />
         <item itemvalue="Application.SelfIterator" />
         <item itemvalue="Application.MemoryLeak" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -194,6 +230,7 @@
       <workItem from="1569342730597" duration="1687000" />
       <workItem from="1569468460443" duration="922000" />
       <workItem from="1569479365313" duration="243000" />
+      <workItem from="1570373495421" duration="897000" />
     </task>
     <task id="LOCAL-00001" summary="HW_One">
       <created>1568658165394</created>
@@ -342,7 +379,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569255470415</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="ДОМАШНЕЕ ЗАДАНИЕ БЛОК 3. ЗАНЯТИЕ 1. ТЕМА «GENERICS В JAVA» &#10;Приложение «Обобщенный класс-агрегатор»">
+      <created>1570374154870</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1570374154870</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -372,7 +416,8 @@
     <MESSAGE value="I.Java core&#10;homework five exception, calculator" />
     <MESSAGE value="I.Java core&#10;homework six object, memory leak" />
     <MESSAGE value="II.Data structures&#10;homework array, poker" />
-    <option name="LAST_COMMIT_MESSAGE" value="II.Data structures&#10;homework array, poker" />
+    <MESSAGE value="ДОМАШНЕЕ ЗАДАНИЕ БЛОК 3. ЗАНЯТИЕ 1. ТЕМА «GENERICS В JAVA» &#10;Приложение «Обобщенный класс-агрегатор»" />
+    <option name="LAST_COMMIT_MESSAGE" value="ДОМАШНЕЕ ЗАДАНИЕ БЛОК 3. ЗАНЯТИЕ 1. ТЕМА «GENERICS В JAVA» &#10;Приложение «Обобщенный класс-агрегатор»" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
